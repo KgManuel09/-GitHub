@@ -7,7 +7,7 @@ rd - округление: f_c число, i_d на сколько чисел п
 ! - факториал: для операции используется переменная i_d(int).
 примечание: если вы хотите, вы можете поправить код если что. Особенно приветсвуются люди,
 которые шарят за PEP - 8 и могут добавить какие - то свои идеи для программы.
-примечание 2: если вы хотите добавить tklinker в калькулятор, то для этого я добавлю список функций. 
+примечание 2: я добавлю калькулятор на tkiner просто чтобы было.
 Заранее спасибо всем пользователям GitHub.:) И да мне 14 лет, живу в России и изучаю Python. 
 
 These are the instructions for the cycle calculator. I'll translate it into English,
@@ -19,5 +19,5 @@ rd - rounding: f_c number, i_d by how many numbers after the decimal point to ro
 ! - factorial: the variable i_d(int) is used for the operation.
 note: if you want, you can correct the code if necessary. People are especially welcome
 who are interested in PEP-8 and can add some of their own ideas for the program.
-note 2: if you want to add tklinker to the calculator then I will add a list of functions.
+note 2: I'm adding a calculator to tkinter just to have it.
 Thanks in advance to all GitHub users. :) And yes, I’m 14 years old, I live in Russia and I’m learning Python.
